@@ -1,0 +1,7 @@
+D:\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 3\Assesment-3\bin\Debug\Assesment-3.exe.config
+D:\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 3\Assesment-3\bin\Debug\Assesment-3.exe
+D:\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 3\Assesment-3\bin\Debug\Assesment-3.pdb
+D:\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 3\Assesment-3\obj\Debug\Assesment-3.csproj.AssemblyReference.cache
+D:\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 3\Assesment-3\obj\Debug\Assesment-3.csproj.CoreCompileInputs.cache
+D:\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 3\Assesment-3\obj\Debug\Assesment-3.exe
+D:\Mphasis\Mphasis Assignments\SimpliLearn Assesment\Assesment 3\Assesment-3\obj\Debug\Assesment-3.pdb
